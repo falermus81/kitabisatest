@@ -1,0 +1,26 @@
+com/testingcompany/testfunction/TestFunction.java
+ com.testingcompany.testfunction.TestFunction
+com/testingcompany/steps/HomePageSteps.java
+ com.testingcompany.steps.HomePageSteps
+com/testingcompany/steps/CampaignPageSteps.java
+ com.testingcompany.steps.CampaignPageSteps
+com/testingcompany/pages/HomePage.java
+ com.testingcompany.pages.HomePage
+com/testingcompany/pages/IdentityPage.java
+ com.testingcompany.pages.IdentityPage
+com/testingcompany/pages/BasePage.java
+ com.testingcompany.pages.BasePage
+com/testingcompany/steps/IdentityPageSteps.java
+ com.testingcompany.steps.IdentityPageSteps
+com/testingcompany/pages/PaymentMethodPage.java
+ com.testingcompany.pages.PaymentMethodPage
+com/testingcompany/pages/CampaignPage.java
+ com.testingcompany.pages.CampaignPage
+com/testingcompany/pages/PagePool.java
+ com.testingcompany.pages.PagePool
+com/testingcompany/steps/PaymentMethodPageSteps.java
+ com.testingcompany.steps.PaymentMethodPageSteps
+com/testingcompany/steps/NominalPageSteps.java
+ com.testingcompany.steps.NominalPageSteps
+com/testingcompany/pages/NominalPage.java
+ com.testingcompany.pages.NominalPage
